@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osm2dyn", "osm2dyn.csproj", "{807343D5-4880-40C7-A1F8-72148AEC4FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807343D5-4880-40C7-A1F8-72148AEC4FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807343D5-4880-40C7-A1F8-72148AEC4FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807343D5-4880-40C7-A1F8-72148AEC4FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807343D5-4880-40C7-A1F8-72148AEC4FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {205CB412-741F-4290-B1F4-CA866BA7CC91}
+	EndGlobalSection
+EndGlobal
