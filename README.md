@@ -11,3 +11,4 @@ Linear-data, is closed | Polygons
 
 # Sample materials
 Look script ```loading_Rotterdam.dyn``` in Releases's materials.
+Read [article about develop that package](https://zen.yandex.ru/media/id/5d0dba97ecd5cf00afaf2938/dynamo-i-openstreetmap-62c9c27b6060bd7a75496c1a) (Russian only).
